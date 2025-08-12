@@ -6,7 +6,7 @@ export default function Header({ nav, onNavClick }) {
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
         <div className="flex items-center gap-3">
           <div className="w-9 h-9 rounded-2xl bg-neutral-900 text-white grid place-items-center font-bold ring-2 ring-[#d4af37]/70">
-            <img src="../public/20250812_1808_Logo Minimalista KZO_simple_compose_01k2g1rrs3ev4teg5yt5f38jmf.png" alt=""  className="rounded-full"/>
+            <img src="/20250812_1808_Logo Minimalista KZO_simple_compose_01k2g1rrs3ev4teg5yt5f38jmf.png" alt=""  className="rounded-full"/>
           </div>
           <div className="leading-tight">
             <div className="font-semibold">Franco Puleo</div>

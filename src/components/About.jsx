@@ -7,7 +7,7 @@ export default function About() {
         <div className="md:col-span-1">
           <div className="aspect-square rounded-3xl overflow-hidden ring-2 ring-[#d4af37]/60 shadow-lg">
             {/* Sube la imagen a public/mi-foto.jpg o cambia el src por tu enlace de Drive (uc?export=view&id=...) */}
-            <img src="../public/file.jpg" alt="Franco Puleo" className="w-full h-full object-cover" />
+            <img src="/file.jpg" alt="Franco Puleo" className="w-full h-full object-cover" />
           </div>
         </div>
         <div className="md:col-span-2">

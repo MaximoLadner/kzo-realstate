@@ -41,7 +41,7 @@ export default function Hero({ onScrollTo }) {
         <div className="relative">
           <div className="aspect-[4/5] rounded-3xl overflow-hidden shadow-2xl ring-1 ring-neutral-200">
             <img
-              src="../public/20250812_1906_Ciudad Minimalista Realista_simple_compose_01k2g50qcpf22bth47y3jzjfy0.png"
+              src="/20250812_1906_Ciudad Minimalista Realista_simple_compose_01k2g50qcpf22bth47y3jzjfy0.png"
               alt="Portfolio hero"
               className="w-full h-max object-cover"
             />
