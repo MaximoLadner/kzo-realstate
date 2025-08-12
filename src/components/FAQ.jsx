@@ -2,7 +2,7 @@ import React from "react";
 
 const faqs = [
   { q: "¿En cuánto tiempo entregas?", a: "Entre 24 horas y 3 días dependiendo del proyecto." },
-  { q: "¿Trabajas remoto y presencial?", a: "Sí, cobertura en Miami y formato remoto internacional." },
+  { q: "¿Trabajas remoto y presencial?", a: "Trabajo solo de manera remota a exepción de ciertos lugares en Argentina" },
   { q: "¿Incluye anuncios?", a: "Entrego versiones para Ads y recomendaciones de campaña." },
   { q: "¿Cómo medimos resultados?", a: "KPI acordados (retención, CTR, leads) y reporte mensual." },
 ];

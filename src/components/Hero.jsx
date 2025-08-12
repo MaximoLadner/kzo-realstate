@@ -26,16 +26,7 @@ export default function Hero({ onScrollTo }) {
             >
               Agendar llamada
             </a>
-            <a
-              href="#portfolio"
-              onClick={(e) => {
-                e.preventDefault();
-                onScrollTo("portfolio");
-              }}
-              className="px-5 py-3 rounded-xl border border-[#d4af37] text-[#d4af37] hover:bg-[#d4af37]/10"
-            >
-              Ver trabajos
-            </a>
+
           </div>
         </div>
         <div className="relative">
